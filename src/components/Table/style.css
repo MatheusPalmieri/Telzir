@@ -1,0 +1,45 @@
+.table-responsive {
+    display: none;
+}
+
+.none {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.container {
+    margin: 40px auto 0;
+    text-align: center;
+}
+
+.form > div {
+    margin-bottom: 20px;
+}
+
+.button {
+    margin-top: 20px;
+    transition: transform .5s;
+}
+
+.button:hover, .button:focus {
+    transform: scale(1.05);
+}
+
+.table-responsive {
+    background-color: #198754;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+thead, tbody {
+    color: white;
+    font-size: 17px;
+    
+}
+
+tr * {
+    border: none !important;
+}
