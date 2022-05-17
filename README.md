@@ -4,7 +4,7 @@
 
 <!-- Descrição -->
 
-<p align="center">Test feito para empresa LolDesign. Framework utilizado, React, e uso de Bootstrap.</p>
+<p align="center">Framework utilizado, React, e uso de Bootstrap.</p>
 
 <!-- Súmario -->
 
